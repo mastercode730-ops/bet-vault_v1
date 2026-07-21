@@ -1,0 +1,137 @@
+@import "tailwindcss";
+
+:root {
+  --gold: #D4AF37;
+  --gold-light: #F5D073;
+  --gold-dark: #A68B2A;
+}
+
+html {
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #0A0A0A;
+  color: #ffffff;
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #111; }
+::-webkit-scrollbar-thumb { background: var(--gold); border-radius: 3px; }
+
+/* ── Utilities ── */
+.gold-text {
+  background: linear-gradient(135deg, #D4AF37 0%, #F5D073 50%, #A68B2A 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gold-btn {
+  background: linear-gradient(135deg, #D4AF37 0%, #F5D073 50%, #A68B2A 100%);
+  color: #000;
+  font-weight: 700;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 20px rgba(212, 175, 55, 0.4);
+  display: inline-flex;
+  align-items: center;
+}
+
+.gold-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(212, 175, 55, 0.6);
+}
+
+.whatsapp-btn {
+  background: linear-gradient(135deg, #25D366 0%, #128C7E 100%);
+  color: #fff;
+  font-weight: 700;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 20px rgba(37, 211, 102, 0.4);
+  display: inline-flex;
+  align-items: center;
+}
+
+.whatsapp-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(37, 211, 102, 0.6);
+}
+
+.card-glow {
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  background: linear-gradient(135deg, #111111 0%, #1A1A1A 100%);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.card-glow:hover {
+  border-color: rgba(212, 175, 55, 0.5);
+  box-shadow: 0 8px 32px rgba(212, 175, 55, 0.15);
+  transform: translateY(-3px);
+}
+
+/* Ticker */
+.ticker-wrap {
+  overflow: hidden;
+  background: linear-gradient(90deg, #D4AF37, #F5D073, #A68B2A, #D4AF37);
+  padding: 10px 0;
+  width: 100%;
+}
+
+@keyframes ticker {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.ticker-content {
+  display: inline-flex;
+  animation: ticker 30s linear infinite;
+  white-space: nowrap;
+}
+
+/* FAQ */
+.faq-item {
+  border: 1px solid rgba(212, 175, 55, 0.15);
+  transition: border-color 0.3s ease;
+}
+
+.faq-item:hover {
+  border-color: rgba(212, 175, 55, 0.4);
+}
+
+/* Floating pulse */
+@keyframes pulse-gold {
+  0%, 100% { box-shadow: 0 0 15px rgba(212, 175, 55, 0.3); }
+  50%       { box-shadow: 0 0 40px rgba(212, 175, 55, 0.7); }
+}
+
+.animate-pulse-gold {
+  animation: pulse-gold 2s ease-in-out infinite;
+}
+
+/* Section wrapper — guarantees horizontal safe zone */
+.section-container {
+  width: 100%;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (min-width: 640px) {
+  .section-container { padding-left: 32px; padding-right: 32px; }
+}
+
+@media (min-width: 1024px) {
+  .section-container { padding-left: 48px; padding-right: 48px; }
+}
