@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 
 const WHATSAPP_URL = `https://wa.me/8764465110?text=${encodeURIComponent('Hi Bet Vault! Can I get more info on this?')}`;
 
@@ -39,17 +40,22 @@ export default function Footer() {
               Quick Links
             </h4>
             <ul className="space-y-2 sm:space-y-3">
-              {['Home', 'About Us', 'How It Works', 'Sports & Markets', 'FAQ', 'Contact'].map((link) => (
-                <li key={link}>
-                  <a
-                    href={WHATSAPP_URL}
-                    target="_blank"
-                    rel="noopener noreferrer"
+              {[
+                { name: 'Home', href: '/' },
+                { name: 'About Us', href: '/#about' },
+                { name: 'How It Works', href: '/#how-it-works' },
+                { name: 'Sports & Markets', href: '/#sports' },
+                { name: 'FAQ', href: '/#faq' },
+                { name: 'Sitemap', href: '/sitemap' },
+              ].map((item) => (
+                <li key={item.name}>
+                  <Link
+                    href={item.href}
                     className="text-gray-400 hover:text-yellow-400 text-xs sm:text-sm transition-colors flex items-center gap-2"
                   >
                     <span className="text-yellow-600">›</span>
-                    {link}
-                  </a>
+                    {item.name}
+                  </Link>
                 </li>
               ))}
             </ul>
@@ -128,12 +134,14 @@ export default function Footer() {
 
           <div className="text-center text-gray-600 text-xs">
             <p>© {new Date().getFullYear()} Bet Vault. All rights reserved.</p>
-            <p className="mt-1 flex flex-wrap justify-center gap-x-3 gap-y-1">
+            <p className="mt-2 flex flex-wrap justify-center gap-x-3 gap-y-1">
+              <a href="/sitemap.xml" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400 transition-colors">Sitemap</a>
+              <span className="text-gray-700">·</span>
+              <a href="/robots.txt" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400 transition-colors">Robots.txt</a>
+              <span className="text-gray-700">·</span>
               <a href={WHATSAPP_URL} className="hover:text-yellow-400 transition-colors">Privacy Policy</a>
               <span className="text-gray-700">·</span>
               <a href={WHATSAPP_URL} className="hover:text-yellow-400 transition-colors">Terms &amp; Conditions</a>
-              <span className="text-gray-700">·</span>
-              <a href={WHATSAPP_URL} className="hover:text-yellow-400 transition-colors">Responsible Gaming</a>
             </p>
           </div>
         </div>
