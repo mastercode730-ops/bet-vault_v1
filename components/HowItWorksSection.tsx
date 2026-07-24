@@ -1,4 +1,4 @@
-const WHATSAPP_URL = `https://wa.me/8764465110?text=${encodeURIComponent('Hi Bet Vault! Can I get more info on this?')}`;
+const WHATSAPP_URL = `https://wa.me/918764465110?text=${encodeURIComponent('Hi Bet Vault! Can I get more info on this?')}`;
 
 const steps = [
   { step: '01', title: 'Reach Out on WhatsApp', desc: 'Tap the WhatsApp button and send us a quick message. Our team responds almost immediately — no long forms, no complicated pages.' },

@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-const WHATSAPP_URL = `https://wa.me/8764465110?text=${encodeURIComponent('Hi Bet Vault! Can I get more info on this?')}`;
+const WHATSAPP_URL = `https://wa.me/918764465110?text=${encodeURIComponent('Hi Bet Vault! Can I get more info on this?')}`;
 
 const faqs = [
   {

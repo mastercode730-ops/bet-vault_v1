@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
 
-const WHATSAPP_URL = `https://wa.me/8764465110?text=${encodeURIComponent('Hi Bet Vault! Can I get more info on this?')}`;
+const WHATSAPP_URL = `https://wa.me/918764465110?text=${encodeURIComponent('Hi Bet Vault! Can I get more info on this?')}`;
 
 const navLinks = [
   { label: 'Home', href: '#hero' },
@@ -82,7 +82,7 @@ export default function Navbar() {
               className="hidden md:flex items-center gap-2 whatsapp-btn px-4 sm:px-5 py-2 sm:py-2.5 rounded-full text-xs sm:text-sm font-bold whitespace-nowrap"
             >
               <WhatsAppIcon className="w-4 h-4" />
-              WhatsApp Us Now
+              <span>+91 87644 65110</span>
             </a>
 
             {/* Mobile Hamburger */}
@@ -123,7 +123,7 @@ export default function Navbar() {
               className="flex items-center justify-center gap-2 whatsapp-btn px-5 py-3 rounded-full text-sm font-bold mt-2 w-full"
             >
               <WhatsAppIcon className="w-4 h-4" />
-              WhatsApp Us Now
+              <span>+91 87644 65110</span>
             </a>
           </div>
         )}
@@ -138,7 +138,7 @@ export default function Navbar() {
         aria-label="Chat on WhatsApp"
       >
         <WhatsAppIcon className="w-5 h-5 flex-shrink-0" />
-        <span className="hidden sm:inline whitespace-nowrap">Get Your ID Now</span>
+        <span className="whitespace-nowrap">+91 87644 65110</span>
       </a>
     </>
   );

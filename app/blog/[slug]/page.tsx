@@ -28,7 +28,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   }
 
   const otherPosts = blogPosts.filter((p) => p.slug !== post.slug).slice(0, 3);
-  const whatsappUrl = `https://wa.me/8764465110?text=${encodeURIComponent(`Hi Bet Vault! I just read "${post.title}" and would like more info.`)}`;
+  const whatsappUrl = `https://wa.me/918764465110?text=${encodeURIComponent(`Hi Bet Vault! I just read "${post.title}" and would like more info.`)}`;
 
   return (
     <main>
