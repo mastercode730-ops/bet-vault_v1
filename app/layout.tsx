@@ -2,6 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.png',
+    apple: '/apple-icon.png',
+  },
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://betvault.in'),
   title: "Bet Vault – Your Trusted Online Cricket Betting ID Provider",
   description: "Bet Vault is India's most trusted online cricket betting ID provider. Get your instant betting ID today with 24/7 support, 100% secure payments, and exclusive welcome bonuses.",
