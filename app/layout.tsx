@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "Bet Vault – Your Trusted Online Cricket Betting ID Provider",
   description: "Bet Vault is India's most trusted online cricket betting ID provider. Get your instant betting ID today with 24/7 support, 100% secure payments, and exclusive welcome bonuses.",
   keywords: "online cricket betting ID, cricket ID, betting ID India, sports betting, IPL betting ID",
+  verification: {
+    google: "hKyXrV_KszpG4iVcHpyASn9c05tZR55mPelqb7VhCKM",
+  },
   openGraph: {
     title: "Bet Vault – Your Trusted Online Cricket Betting ID Provider",
     description: "Get your instant cricket betting ID from Bet Vault. India's most trusted platform with 3M+ users, 24/7 support, and exclusive bonuses.",
