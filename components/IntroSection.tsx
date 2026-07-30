@@ -22,9 +22,8 @@ export default function IntroSection() {
             lineHeight: 1.2,
           }}
         >
-          Get Your{' '}
-          <span className="gold-text">Instant Cricket Betting ID</span>
-          {' '}— Start Winning Today
+          Play Smarter with{' '}
+          <span className="gold-text">Secure Sports Betting, Live Casino & Instant Betting IDs</span>
         </h2>
 
         <p className="text-gray-400 text-sm sm:text-base leading-relaxed mb-4 max-w-2xl">

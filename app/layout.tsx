@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     shortcut: '/favicon.png',
     apple: '/apple-icon.png',
   },
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://betvault.in'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://bet-vault.com'),
   title: "BetVault | Online Cricket Betting, Sports Betting & Casino",
   description: "Join BetVault for secure online cricket betting, live sports betting, casino games, instant betting IDs, competitive odds, ",
   keywords: "online cricket betting ID, cricket ID, betting ID India, sports betting, IPL betting ID",
@@ -26,10 +26,10 @@ const schemaOrg = {
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://betvault.in/#organization",
+      "@id": "https://bet-vault.com/#organization",
       "name": "BetVault",
       "alternateName": "Bet Vault",
-      "url": "https://betvault.in/",
+      "url": "https://bet-vault.com/",
       "logo": {
         "@type": "ImageObject",
         "url": "https://bet-vault.com/_next/image?url=%2Flogo.jpeg&w=128&q=75"
@@ -46,53 +46,53 @@ const schemaOrg = {
     },
     {
       "@type": "WebSite",
-      "@id": "https://betvault.in/#website",
-      "url": "https://betvault.in/",
+      "@id": "https://bet-vault.com/#website",
+      "url": "https://bet-vault.com/",
       "name": "BetVault",
-      "publisher": { "@id": "https://betvault.in/#organization" },
+      "publisher": { "@id": "https://bet-vault.com/#organization" },
       "inLanguage": "en-IN",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://betvault.in/?s={search_term_string}",
+        "target": "https://bet-vault.com/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "WebPage",
-      "@id": "https://betvault.in/#webpage",
-      "url": "https://betvault.in/",
+      "@id": "https://bet-vault.com/#webpage",
+      "url": "https://bet-vault.com/",
       "name": "BetVault | Online Cricket Betting, Sports Betting & Casino",
       "description": "Join BetVault for secure online cricket betting, live sports betting, casino games, instant betting IDs, competitive odds, and fast withdrawals in India.",
-      "isPartOf": { "@id": "https://betvault.in/#website" },
-      "about": { "@id": "https://betvault.in/#organization" },
-      "primaryImageOfPage": { "@id": "https://betvault.in/#primaryimage" },
-      "breadcrumb": { "@id": "https://betvault.in/#breadcrumb" },
+      "isPartOf": { "@id": "https://bet-vault.com/#website" },
+      "about": { "@id": "https://bet-vault.com/#organization" },
+      "primaryImageOfPage": { "@id": "https://bet-vault.com/#primaryimage" },
+      "breadcrumb": { "@id": "https://bet-vault.com/#breadcrumb" },
       "inLanguage": "en-IN"
     },
     {
       "@type": "ImageObject",
-      "@id": "https://betvault.in/#primaryimage",
+      "@id": "https://bet-vault.com/#primaryimage",
       "url": "https://bet-vault.com/_next/image?url=%2Flogo.jpeg&w=128&q=75",
       "contentUrl": "https://bet-vault.com/_next/image?url=%2Flogo.jpeg&w=128&q=75",
       "caption": "BetVault"
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://betvault.in/#breadcrumb",
+      "@id": "https://bet-vault.com/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://betvault.in/"
+          "item": "https://bet-vault.com/"
         }
       ]
     },
     {
       "@type": "Service",
-      "@id": "https://betvault.in/#service",
+      "@id": "https://bet-vault.com/#service",
       "name": "Online Cricket Betting & Sports Betting Services",
-      "provider": { "@id": "https://betvault.in/#organization" },
+      "provider": { "@id": "https://bet-vault.com/#organization" },
       "serviceType": [
         "Cricket Betting ID",
         "Online Cricket Betting",
@@ -105,25 +105,25 @@ const schemaOrg = {
       "areaServed": { "@type": "Country", "name": "India" },
       "availableChannel": {
         "@type": "ServiceChannel",
-        "serviceUrl": "https://betvault.in/",
+        "serviceUrl": "https://bet-vault.com/",
         "availableLanguage": ["English", "Hindi"]
       }
     },
     {
       "@type": "SiteNavigationElement",
-      "@id": "https://betvault.in/#navigation",
+      "@id": "https://bet-vault.com/#navigation",
       "name": ["Home", "Blog", "Cricket Betting", "Sports Betting", "Casino Betting"],
       "url": [
-        "https://betvault.in/",
-        "https://betvault.in/blog/",
-        "https://betvault.in/",
-        "https://betvault.in/",
-        "https://betvault.in/"
+        "https://bet-vault.com/",
+        "https://bet-vault.com/blog/",
+        "https://bet-vault.com/",
+        "https://bet-vault.com/",
+        "https://bet-vault.com/"
       ]
     },
     {
       "@type": "RegisterAction",
-      "@id": "https://betvault.in/#register",
+      "@id": "https://bet-vault.com/#register",
       "name": "Register for a BetVault Betting ID",
       "target": {
         "@type": "EntryPoint",
@@ -133,7 +133,7 @@ const schemaOrg = {
           "https://schema.org/MobileWebPlatform"
         ]
       },
-      "agent": { "@id": "https://betvault.in/#organization" },
+      "agent": { "@id": "https://bet-vault.com/#organization" },
       "result": { "@type": "Thing", "name": "BetVault Betting ID" }
     }
   ]
@@ -142,7 +142,7 @@ const schemaOrg = {
 const schemaFAQ = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "@id": "https://betvault.in/#faq",
+  "@id": "https://bet-vault.com/#faq",
   "mainEntity": [
     {
       "@type": "Question",
