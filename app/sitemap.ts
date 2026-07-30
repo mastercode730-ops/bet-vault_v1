@@ -2,7 +2,8 @@ import { MetadataRoute } from 'next';
 import { blogPosts } from '@/lib/blog-posts';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://bet-vault.com';
+  let baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://bet-vault.com';
+  baseUrl = baseUrl.replace(/\/$/, '');
   const currentDate = new Date().toISOString();
 
   const blogUrls = blogPosts.map((post) => ({
