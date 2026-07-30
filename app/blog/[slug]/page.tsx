@@ -14,8 +14,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const post = getBlogPost(slug);
   if (!post) return {};
   return {
-    title: `${post.title} | Bet Vault Blog`,
-    description: post.excerpt,
+    title: post.metaTitle || `${post.title} | Bet Vault Blog`,
+    description: post.metaDescription || post.excerpt,
   };
 }
 

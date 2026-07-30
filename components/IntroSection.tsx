@@ -14,7 +14,7 @@ export default function IntroSection() {
         </div>
 
         {/* H1 — fluid font, never overflows */}
-        <h1
+        <h2
           className="font-black text-white w-full mb-5"
           style={{
             fontFamily: 'Montserrat, sans-serif',
@@ -25,7 +25,7 @@ export default function IntroSection() {
           Get Your{' '}
           <span className="gold-text">Instant Cricket Betting ID</span>
           {' '}— Start Winning Today
-        </h1>
+        </h2>
 
         <p className="text-gray-400 text-sm sm:text-base leading-relaxed mb-4 max-w-2xl">
           Every ball bowled, every wicket taken, every six hit — cricket stirs something deep inside

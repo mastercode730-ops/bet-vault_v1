@@ -11,6 +11,8 @@ export type BlogPost = {
   excerpt: string;
   image: string;
   readTime: string;
+  metaTitle?: string;
+  metaDescription?: string;
   sections: BlogSection[];
 };
 
@@ -24,6 +26,8 @@ export const blogPosts: BlogPost[] = [
       'From reading pitch reports to tracking powerplay trends, here are the strategies our top members use to make smarter cricket bets this season.',
     image: '/blog/ipl-strategies.svg',
     readTime: '6 min read',
+    metaTitle: 'IPL Betting Strategies 2026 | Expert Tips for Smarter Betting',
+    metaDescription: 'Discover the best IPL 2026 betting strategies, expert match predictions, bankroll management tips, and insights to improve ',
     sections: [
       {
         body: 'IPL 2026 is shaping up to be one of the most unpredictable seasons yet, which means the bettors who do their homework will have a real edge over those who bet on gut feeling alone. Here are five strategies our most consistent members lean on, season after season.',
@@ -62,6 +66,8 @@ export const blogPosts: BlogPost[] = [
       'A step-by-step walkthrough of our fastest onboarding flow yet — from WhatsApp message to placing your first bet.',
     image: '/instant_id.png',
     readTime: '4 min read',
+    metaTitle: 'How to Get a Betting ID Fast | Quick Registration Guide',
+    metaDescription: 'Learn how to get your betting ID quickly with a simple registration process, instant approval, secure verification, and ',
     sections: [
       {
         body: 'One of the most common questions we get is: "How fast can I actually start betting?" The honest answer is that most members are fully set up in under five minutes. Here is exactly how the process works.',
@@ -100,6 +106,8 @@ export const blogPosts: BlogPost[] = [
       "Deposits and withdrawals shouldn't be a headache. Here's how our payment system works and how to avoid common delays.",
     image: '/secure_payments.png',
     readTime: '5 min read',
+    metaTitle: 'Fast Betting Withdrawals Explained | Secure Payout Guide',
+    metaDescription: 'Understand how fast betting withdrawals work, processing times, supported payment methods, security measures, and ',
     sections: [
       {
         body: 'Slow withdrawals are one of the biggest complaints bettors have about other platforms. We built our payment system specifically to avoid that problem — here is how it actually works under the hood.',
@@ -134,6 +142,8 @@ export const blogPosts: BlogPost[] = [
       'Match winner, over/under, both teams to score — we break down the most popular football betting markets for newcomers.',
     image: '/blog/football-101.svg',
     readTime: '5 min read',
+    metaTitle: 'Football Betting 101 | Beginner\'s Guide to Online Football Betting',
+    metaDescription: 'Learn the basics of football betting, popular betting markets, odds, bankroll management, and expert tips to make smarter ',
     sections: [
       {
         body: 'Football betting can look overwhelming at first with so many markets on offer. This guide breaks down the essentials so you can bet with confidence from your very first match.',
