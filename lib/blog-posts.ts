@@ -368,6 +368,62 @@ export const blogPosts: BlogPost[] = [
         body: "Pakistan's eight-wicket victory over the West Indies in the second Test completed a 2–0 series sweep and strengthened Pakistan's position in the ongoing World Test Championship campaign.\n\nThe result demonstrates the value of disciplined bowling, reliable partnerships and the ability to adapt to overseas conditions.\n\nFor Pakistan, the focus now shifts toward the rest of the WTC cycle. The team will need to continue collecting results if it wants to remain in contention for a place in the championship final.\nFor the West Indies, the series offers valuable lessons and an opportunity to improve before their next Test assignment.\n\nFor cricket fans, the WTC remains one of the most interesting long-term competitions in international cricket because every Test carries consequences beyond the individual match.\nThe Port of Spain result may eventually prove to be one important step in Pakistan's journey through the championship, but there is still a long road ahead."
       }
     ]
+  },
+  {
+    slug: 'asian-games-2026-cricket-schedule-india-vs-pakistan-teams-odds-predictions',
+    category: 'Cricket',
+    icon: '🏏',
+    title: 'Asian Games 2026 Cricket: Schedule, India vs Pakistan, Teams, Odds & Match Predictions',
+    excerpt: 'The Asian Games 2026 cricket tournament in Aichi-Nagoya, Japan brings top T20 nations together. Explore schedule, India vs Pakistan knockout possibilities, team squads, odds & predictions.',
+    image: '/blog/asian-games-2026.svg',
+    readTime: '7 min read',
+    metaTitle: 'Asian Games 2026 Cricket: Schedule, India vs Pakistan, Teams & Odds',
+    metaDescription: 'Complete guide to Asian Games 2026 Cricket in Japan. Get schedule, India vs Pakistan match details, team squads, betting odds & match predictions.',
+    sections: [
+      {
+        body: "The Asian Games 2026 cricket tournament is set to be one of the major upcoming T20 events, with India returning as defending men's and women's champions. Cricket will be played in Aichi-Nagoya, Japan, with the men's competition scheduled from September 24 to October 3, 2026. All matches will be played in the T20 format.\n\nThe men's tournament will feature 10 teams, including India, Pakistan, Sri Lanka, Bangladesh, Afghanistan and hosts Japan. With several strong Asian cricket nations involved, the competition should provide plenty of interest for cricket fans and those following Asian Games cricket odds and match predictions.",
+      },
+      {
+        heading: 'Asian Games 2026 Cricket Schedule',
+        body: "The men's cricket competition begins with a preliminary round before the tournament moves into the quarter-finals.\n\n● Preliminary round: September 24–26\n● Quarter-finals: September 28–29\n● Semi-finals: October 1\n● Bronze Medal Match: October 3\n● Gold Medal Match: October 3\n\nThe men's tournament will be played at Kōrogi Athletic Park in Aichi Prefecture, with India, Pakistan, Bangladesh and Sri Lanka receiving direct entry into the quarter-final stage. Afghanistan, Japan, Nepal, Hong Kong China, Malaysia and Oman will compete for the remaining four quarter-final places.",
+      },
+      {
+        heading: 'Asian Games 2026 Cricket Teams',
+        body: "Ten teams are scheduled to participate in the men's T20 competition:\n\nDirect Quarter-Finalists: India, Pakistan, Sri Lanka, Bangladesh\nPreliminary Stage Contenders: Afghanistan, Japan, Nepal, Hong Kong China, Malaysia, Oman\n\nIndia, Pakistan, Sri Lanka and Bangladesh have been seeded directly into the quarter-finals. Afghanistan and Japan are among the teams entering through the preliminary stage, alongside Nepal, Hong Kong China, Malaysia and Oman.\n\nThis format means that the early matches will be particularly important for teams fighting to reach the knockout stage.",
+      },
+      {
+        heading: 'India at the Asian Games 2026',
+        body: "India enter the men's tournament as defending champions after winning gold at the 2023 Asian Games in Hangzhou. They are again expected to field a strong squad for the 2026 competition.\n\nIndia's 15-member men's squad includes several established T20 players, with Shreyas Iyer named captain. The squad also includes Jasprit Bumrah, Sanju Samson, Abhishek Sharma, Tilak Varma, Axar Patel and Arshdeep Singh. Fifteen-year-old Vaibhav Sooryavanshi is another player attracting attention after being selected for the tournament.\n\nThe presence of Bumrah gives India an especially experienced option in the bowling department, while the batting group provides plenty of flexibility.",
+      },
+      {
+        heading: "Pakistan's Asian Games Squad",
+        body: 'Pakistan will also enter the competition with a different-looking side. Sahibzada Farhan has been named captain, while Abdul Samad is vice-captain.\n\nPakistan have opted for a relatively youthful 15-member squad, with several uncapped players included. Four members of the squad are yet to play a T20I for Pakistan.\n\nFarhan is an interesting player to watch. He was Pakistan\'s leading run-scorer at the 2026 T20 World Cup and will now take on additional responsibility as captain.',
+      },
+      {
+        heading: 'Can India Play Pakistan?',
+        body: 'One of the biggest questions surrounding the tournament is whether India and Pakistan will meet.\n\nBecause of the tournament draw, India and Pakistan cannot meet during the preliminary or quarter-final stages. They can face each other only once, in either the semi-final or gold-medal match, provided both teams progress far enough.\n\nThat possibility adds considerable interest to the knockout stages. An India-Pakistan Asian Games match would also create one of the tournament\'s biggest potential betting and viewing events.',
+      },
+      {
+        heading: 'Asian Games Cricket Odds & Betting Markets',
+        body: 'As the tournament approaches, Asian Games cricket betting odds are expected to become available across different markets. Prices can change depending on squad announcements, player availability, team form and results during the preliminary stage.\n\nPotential markets may include:\n● Tournament winner\n● Match winner\n● Top batter & Top bowler\n● Team totals & First-innings score\n● Total match runs & Winning margin\n● Player performance markets\n\nIndia could be among the early favourites because they are defending champions and have selected a strong squad. However, Pakistan, Sri Lanka, Bangladesh and Afghanistan could all present challenges during the knockout stages.\n\nIt is important to remember that betting odds represent market probabilities rather than guaranteed outcomes.',
+      },
+      {
+        heading: 'Key Players to Watch',
+        body: "Jasprit Bumrah – India\nBumrah's inclusion gives India one of the world's most experienced T20 fast bowlers. His ability to take wickets and control scoring at the death could become particularly valuable in knockout matches.\n\nShreyas Iyer – India\nAs captain, Iyer will have responsibility both with the bat and in managing India's tactical approach. His experience in pressure situations makes him an important player to follow.\n\nVaibhav Sooryavanshi – India\nThe teenage batter is one of the most intriguing names in India's squad. His selection adds another young attacking option to the team's batting group.\n\nSahibzada Farhan – Pakistan\nFarhan will captain Pakistan after an impressive 2026 T20 World Cup campaign. His leadership and batting performance could have a major influence on Pakistan's tournament prospects.",
+      },
+      {
+        heading: 'India vs Pakistan Match Prediction',
+        body: "If India and Pakistan meet in the Asian Games, it would be difficult to ignore India's experience and squad depth. India enter as defending champions and have several established international players in their squad.\n\nPakistan, however, could be dangerous because of their young and less predictable team combination. A strong performance from Farhan and Pakistan's emerging players could make the contest highly competitive.\n\nThe final prediction should ideally be made after the playing XIs are confirmed. Pitch conditions, recent form, injuries and the toss can all influence the outcome of a T20 match.",
+      },
+      {
+        heading: 'What Could Influence Asian Games Cricket Matches?',
+        body: 'Several factors could affect the odds and results throughout the competition:\n\n● Playing XI: Team selection is especially important because some squads contain a mixture of established international players and emerging talent.\n● Pitch conditions: Understanding the Kōrogi Athletic Park surface could become increasingly important as teams gain experience at the venue.\n● Recent form: Results from the preliminary stage may provide valuable information about the strengths and weaknesses of teams entering the knockout rounds.\n● Toss: The decision to bat or bowl first can influence T20 matches, particularly when conditions change during the evening.\n● Pressure: Knockout matches require teams to handle pressure effectively. One poor batting or bowling spell can decide a T20 contest.',
+      },
+      {
+        heading: 'Final Thoughts & Responsible Betting',
+        body: "The Asian Games 2026 cricket competition has all the ingredients for an exciting T20 tournament. India will attempt to defend the gold medal they won in 2023, while Pakistan, Sri Lanka, Bangladesh and Afghanistan will be looking to challenge for the podium.\n\nThe possibility of an India vs Pakistan clash in the semi-final or final adds another major storyline. With both teams on opposite sides of the knockout draw, they can meet only if they both progress to a medal-stage match.\n\nFor readers following Asian Games cricket odds and match predictions, the most useful approach is to monitor confirmed squads, playing XIs, player form and venue conditions rather than relying solely on pre-tournament expectations.\n\nSports betting involves financial risk. Odds are not guarantees, and readers should always check the laws applicable in their location and make responsible decisions.",
+      },
+    ],
   }
 ];
 

@@ -1,0 +1,90 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="50%" stop-color="#1A1400"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="50%" stop-color="#F5D073"/>
+      <stop offset="100%" stop-color="#A68B2A"/>
+    </linearGradient>
+    <linearGradient id="indiaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF9933"/>
+      <stop offset="100%" stop-color="#128807"/>
+    </linearGradient>
+    <linearGradient id="pakGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00401A"/>
+      <stop offset="100%" stop-color="#117A37"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="400" cy="225" r="280" fill="url(#glow)"/>
+
+  <!-- Subtle grid lines -->
+  <g opacity="0.05" stroke="#D4AF37" stroke-width="1">
+    <line x1="0" y1="90" x2="800" y2="90"/>
+    <line x1="0" y1="180" x2="800" y2="180"/>
+    <line x1="0" y1="270" x2="800" y2="270"/>
+    <line x1="0" y1="360" x2="800" y2="360"/>
+    <line x1="200" y1="0" x2="200" y2="450"/>
+    <line x1="400" y1="0" x2="400" y2="450"/>
+    <line x1="600" y1="0" x2="600" y2="450"/>
+  </g>
+
+  <!-- Asian Games Badge Top Left -->
+  <g transform="translate(60, 50)">
+    <rect width="180" height="32" rx="16" fill="#1A1810" stroke="url(#gold)" stroke-width="1.5"/>
+    <text x="90" y="21" font-family="Montserrat, sans-serif" font-weight="700" font-size="12" fill="#F5D073" text-anchor="middle" letter-spacing="1">AICHI-NAGOYA 2026</text>
+  </g>
+
+  <!-- VS Clash Badge Center -->
+  <g transform="translate(400, 180)" filter="url(#shadow)">
+    <!-- India Shield -->
+    <g transform="translate(-130, -50)">
+      <rect width="100" height="100" rx="20" fill="#141414" stroke="#FF9933" stroke-width="2"/>
+      <circle cx="50" cy="40" r="22" fill="none" stroke="#FF9933" stroke-width="2"/>
+      <text x="50" y="46" font-family="Montserrat, sans-serif" font-weight="900" font-size="18" fill="#FFFFFF" text-anchor="middle">IND</text>
+      <rect x="25" y="72" width="50" height="4" rx="2" fill="url(#indiaGrad)"/>
+    </g>
+
+    <!-- VS Circle -->
+    <circle cx="0" cy="0" r="28" fill="url(#gold)" filter="url(#shadow)"/>
+    <text x="0" y="7" font-family="Montserrat, sans-serif" font-weight="900" font-size="18" fill="#000000" text-anchor="middle">VS</text>
+
+    <!-- Pak Shield -->
+    <g transform="translate(30, -50)">
+      <rect width="100" height="100" rx="20" fill="#141414" stroke="#117A37" stroke-width="2"/>
+      <circle cx="50" cy="40" r="22" fill="none" stroke="#117A37" stroke-width="2"/>
+      <text x="50" y="46" font-family="Montserrat, sans-serif" font-weight="900" font-size="18" fill="#FFFFFF" text-anchor="middle">PAK</text>
+      <rect x="25" y="72" width="50" height="4" rx="2" fill="url(#pakGrad)"/>
+    </g>
+  </g>
+
+  <!-- Cricket elements -->
+  <g transform="translate(400, 275)" opacity="0.8">
+    <circle cx="0" cy="0" r="16" fill="#7A1E1E" stroke="#F5D073" stroke-width="1"/>
+    <path d="M -12 -4 Q 0 4, 12 -4" fill="none" stroke="#F5D073" stroke-width="1.5"/>
+  </g>
+
+  <!-- Ground line -->
+  <line x1="60" y1="340" x2="740" y2="340" stroke="#D4AF37" stroke-width="1" opacity="0.3"/>
+
+  <!-- Typography Bottom -->
+  <text x="400" y="380" font-family="Montserrat, sans-serif" font-weight="900" font-size="26" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">
+    ASIAN GAMES 2026 <tspan fill="url(#gold)">CRICKET</tspan>
+  </text>
+  <text x="400" y="408" font-family="sans-serif" font-weight="500" font-size="14" fill="#9CA3AF" text-anchor="middle">
+    Schedule • India vs Pakistan • Teams, Odds &amp; Predictions
+  </text>
+</svg>

@@ -88,7 +88,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                     {section.heading}
                   </h2>
                 )}
-                <p className="text-gray-400 leading-relaxed text-sm sm:text-base">{section.body}</p>
+                <p className="text-gray-400 leading-relaxed text-sm sm:text-base whitespace-pre-line">{section.body}</p>
               </div>
             ))}
           </div>
