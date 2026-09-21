@@ -8,6 +8,7 @@ const WHATSAPP_URL = `https://wa.me/918764465110?text=${encodeURIComponent('Hi B
 const navLinks = [
   { label: 'Home', href: '#hero' },
   { label: 'About Us', href: '#about' },
+  { label: 'Cricket Guide', href: '#cricket-guide' },
   { label: 'Blog', href: '#blog' },
   { label: 'Contact', href: '#footer' },
 ];

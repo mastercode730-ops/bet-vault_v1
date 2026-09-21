@@ -43,6 +43,7 @@ export default function Footer() {
               {[
                 { name: 'Home', href: '/' },
                 { name: 'About Us', href: '/#about' },
+                { name: 'Cricket Guide', href: '/#cricket-guide' },
                 { name: 'How It Works', href: '/#how-it-works' },
                 { name: 'Sports & Markets', href: '/#sports' },
                 { name: 'FAQ', href: '/#faq' },

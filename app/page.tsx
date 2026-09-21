@@ -7,6 +7,7 @@ import HowItWorksSection from '@/components/HowItWorksSection';
 import SportsSection from '@/components/SportsSection';
 import AboutSection from '@/components/AboutSection';
 import BlogSection from '@/components/BlogSection';
+import CricketGuideSection from '@/components/CricketGuideSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
 import FAQSection from '@/components/FAQSection';
 import Footer from '@/components/Footer';
@@ -22,6 +23,7 @@ export default function Home() {
       <HowItWorksSection />
       <SportsSection />
       <AboutSection />
+      <CricketGuideSection />
       <BlogSection />
       <TestimonialsSection />
       <FAQSection />

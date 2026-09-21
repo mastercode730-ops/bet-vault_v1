@@ -424,7 +424,73 @@ export const blogPosts: BlogPost[] = [
         body: "The Asian Games 2026 cricket competition has all the ingredients for an exciting T20 tournament. India will attempt to defend the gold medal they won in 2023, while Pakistan, Sri Lanka, Bangladesh and Afghanistan will be looking to challenge for the podium.\n\nThe possibility of an India vs Pakistan clash in the semi-final or final adds another major storyline. With both teams on opposite sides of the knockout draw, they can meet only if they both progress to a medal-stage match.\n\nFor readers following Asian Games cricket odds and match predictions, the most useful approach is to monitor confirmed squads, playing XIs, player form and venue conditions rather than relying solely on pre-tournament expectations.\n\nSports betting involves financial risk. Odds are not guarantees, and readers should always check the laws applicable in their location and make responsible decisions.",
       },
     ],
-  }
+  },
+  {
+    slug: 'india-vs-west-indies-2026-schedule-squads-venues',
+    category: 'Cricket',
+    icon: '🏏',
+    title: 'India vs West Indies 2026: Schedule, Squads, Venues and What to Watch',
+    excerpt:
+      "Complete guide to India vs West Indies 2026 home series: full 3 ODI and 5 T20I schedule, BCCI squads, captains Shubman Gill & Shreyas Iyer, venue details, and key storylines.",
+    image: '/blog/ind-vs-wi-2026.svg',
+    readTime: '7 min read',
+    metaTitle: 'India vs West Indies 2026: Schedule, Squads, Venues & Match Guide',
+    metaDescription:
+      "India vs West Indies 2026 tour details: 3 ODIs & 5 T20Is schedule, India's ODI & T20I squads, venues, captaincy, key player matchups, and match insights.",
+    sections: [
+      {
+        body: "India's 2026 home cricket season is about to get busy.\n\nThe first major assignment of the new home season is the West Indies tour of India, which begins on September 27, 2026. The two teams are scheduled to play three ODIs followed by five T20Is, taking the series to eight matches across several Indian cities.\n\nFor cricket fans, there is plenty to follow. The ODI squad includes experienced names such as Rohit Sharma and Virat Kohli alongside younger players, while the T20I team has a different combination led by Shreyas Iyer.\n\nThe series also comes at an interesting point in India's international calendar. West Indies are the first of four visiting teams scheduled to tour India during the 2026-27 home season. Sri Lanka, Zimbabwe and Australia are due to follow later.\n\nHere's a closer look at the series, including the complete schedule, squads, venues and some of the storylines worth following.",
+      },
+      {
+        heading: 'India vs West Indies 2026: Quick Overview',
+        body: "The tour includes:\n● 3 ODIs\n● 5 T20Is\n● 8 matches in total\n● Matches across 8 Indian venues\n● ODI series from September 27 to October 3\n● T20I series from October 6 to October 17\n\nThe ODIs are scheduled for 2:00 PM starts, while all five T20Is are scheduled for 7:00 PM.\n\nThat switch from afternoon ODI cricket to evening T20Is should give the series a noticeable change in atmosphere as well as playing conditions.",
+      },
+      {
+        heading: 'India vs West Indies ODI Schedule 2026',
+        body: "The ODI portion of the tour consists of three matches confirmed by the BCCI:\n\n● 1st ODI — September 27, 2026 | Trivandrum | 2:00 PM\n● 2nd ODI — September 30, 2026 | Guwahati | 2:00 PM\n● 3rd ODI — October 3, 2026 | New Chandigarh | 2:00 PM\n\n1st ODI – Trivandrum (Sep 27):\nThe opening match will be played in Trivandrum. There is always something interesting about the first match of a bilateral series. Teams are still working out combinations, players are getting used to conditions and captains have to make early decisions about how they want to approach the contest. For India, this match will also mark the beginning of the ODI portion under Shubman Gill's captaincy.\n\n2nd ODI – Guwahati (Sep 30):\nThe second ODI moves to Guwahati. There are only a few days between the first two matches, so teams will have limited time to make major adjustments. The result of the opening game could also influence the approach to the second match, particularly when it comes to team combinations and bowling workloads.\n\n3rd ODI – New Chandigarh (Oct 3):\nThe final ODI is scheduled for New Chandigarh. It will be the last 50-over match of the tour before the teams switch completely to T20 cricket. That format change is important. A player who is particularly valuable in a 50-over game may have a different role in a 20-over side.",
+      },
+      {
+        heading: 'India vs West Indies T20I Schedule 2026',
+        body: "The T20I series begins just three days after the final ODI. All five T20Is are scheduled as evening matches starting at 7:00 PM:\n\n● 1st T20I — October 6, 2026 | Lucknow | 7:00 PM\n● 2nd T20I — October 9, 2026 | Ranchi | 7:00 PM\n● 3rd T20I — October 11, 2026 | Indore | 7:00 PM\n● 4th T20I — October 14, 2026 | Hyderabad | 7:00 PM\n● 5th T20I — October 17, 2026 | Bengaluru | 7:00 PM\n\n1st T20I – Lucknow (Oct 6):\nAn interesting change of pace after the 50-over games. The shorter format leaves much less room for recovery. A poor powerplay, an expensive over or a quick partnership can change the shape of a T20 match within minutes.\n\n2nd T20I – Ranchi (Oct 9):\nBy this stage, both teams will have had an opportunity to assess the opposition in the T20 format. It can also be the point where teams start making tactical changes based on what they saw in the opening game.\n\n3rd T20I – Indore (Oct 11):\nThe middle game of the five-match series, making it an important point in the overall contest. Player workload, batting combinations and bowling options could all become part of the discussion as the series moves quickly from one city to another.\n\n4th T20I – Hyderabad (Oct 14):\nBy then, the teams should have a clearer picture of which combinations are working and which areas need adjustment.\n\n5th T20I – Bengaluru (Oct 17):\nThe final T20I brings the eight-match tour to an end. It provides a last opportunity for players to make an impression before the teams move on to their next assignments.",
+      },
+      {
+        heading: "India's ODI Squad",
+        body: "The BCCI announced India's squads for the West Indies series on September 16.\n\nThe ODI squad is:\n● Shubman Gill – Captain\n● Rohit Sharma\n● Virat Kohli\n● Ruturaj Gaikwad\n● KL Rahul – Vice-Captain\n● Dhruv Jurel\n● Nitish Kumar Reddy\n● Ravindra Jadeja\n● Kuldeep Yadav\n● Prasidh Krishna\n● Gurnoor Brar\n● Mohammed Siraj\n● Auqib Nabi\n● Yashasvi Jaiswal\n● Naman Dhir\n\nThere is a useful mix here. Gill will lead the side, while Rohit Sharma and Virat Kohli bring considerable international experience. KL Rahul has also been named vice-captain. The squad includes players with different skill sets, which gives the team several possible combinations depending on conditions and the opposition.",
+      },
+      {
+        heading: "India's T20I Squad",
+        body: "The T20I team features a distinct, agile combination:\n\n● Shreyas Iyer – Captain\n● Abhishek Sharma\n● Vaibhav Sooryavanshi\n● Ishan Kishan – Wicketkeeper\n● Sanju Samson – Wicketkeeper\n● Tilak Varma – Vice-Captain\n● Shivam Dube\n● Kuldeep Yadav\n● Axar Patel\n● Washington Sundar\n● Ravi Bishnoi\n● Nitish Kumar Reddy\n● Arshdeep Singh\n● Prince Yadav\n● Mayank Yadav\n\nShreyas Iyer will captain the T20I side, with Tilak Varma as vice-captain. The selection also includes several players who can contribute in more than one area, giving the team flexibility when selecting the playing XI.",
+      },
+      {
+        heading: 'Players Who Will Attract Attention',
+        body: "Shubman Gill:\nGill will lead India in the ODIs. Captaincy adds another responsibility to his role. Apart from contributing with the bat, he will have to manage field placements, bowling changes and the overall direction of the ODI side.\n\nRohit Sharma:\nRohit remains part of the ODI squad. His experience at the top of the order gives India another established option in the 50-over format.\n\nVirat Kohli:\nWhenever Kohli is part of an Indian squad, there is naturally a lot of attention around his batting, particularly during an international home series.\n\nRavindra Jadeja:\nJadeja provides India with an all-round option in the ODI squad. His ability to contribute with both bat and ball can be particularly useful when balancing the playing XI.\n\nShreyas Iyer:\nIyer will captain the T20I team. The role represents a different challenge from leading a 50-over side because T20 matches require decisions to be made very quickly.\n\nTilak Varma:\nTilak has been named T20I vice-captain. His role will be worth following as India develop their combination for the five-match T20 series.",
+      },
+      {
+        heading: 'What Makes This Series Interesting & Why Venues Matter',
+        body: "One of the biggest talking points is the change between formats. The first three matches will be ODIs, where teams have 50 overs to build an innings, recover from setbacks and manage the game over a longer period. Then everything shifts to T20 cricket, where a batter cannot spend too long settling in, bowlers have tiny margins for error, and captains have fewer opportunities to recover from tactical mistakes.\n\nThe teams will travel across India during the tour:\n● ODI venues: Trivandrum, Guwahati, New Chandigarh\n● T20I venues: Lucknow, Ranchi, Indore, Hyderabad, Bengaluru\n\nDifferent venues bring different conditions. Pitch behavior, weather, dew, boundary sizes and local soil types all affect how a match develops. Teams must adapt dynamically as the tour moves from one city to another.",
+      },
+      {
+        heading: 'What Should Cricket Fans Watch?',
+        body: "● Playing XI: The confirmed XI often reveals how a team approaches local pitch conditions (e.g. an additional spinner vs extra seamer).\n● Powerplay: The opening overs are especially crucial in T20 cricket to maximize field restrictions while safeguarding wickets.\n● Middle Overs: The middle part of an innings is where teams build or lose momentum through spin control and change-up bowling.\n● Death Overs: The final overs produce dramatic changes in score as batters look to maximize every delivery and bowlers aim to hit yorkers.\n● Fielding: Dropped catches or misfields often have a deciding impact in close games.",
+      },
+      {
+        heading: 'Home Calendar & Domestic Season Context',
+        body: "The West Indies tour is the opening assignment of India's 2026-27 home international season. The BCCI has announced a calendar featuring 22 international matches across 17 cities, with West Indies, Sri Lanka, Zimbabwe and Australia visiting India.\n\nAfter West Indies, India host Sri Lanka in December 2026, Zimbabwe in January 2027 for a three-match ODI series, and conclude with the five-Test Border-Gavaskar Trophy against Australia starting January 21, 2027 in Nagpur.\n\nMeanwhile, the BCCI's domestic calendar includes 1,788 matches across competitions like Ranji Trophy, Duleep Trophy, Irani Cup, Syed Mushtaq Ali Trophy (November) and Vijay Hazare Trophy (December).",
+      },
+      {
+        heading: 'How to Follow & A Note About Cricket Odds',
+        body: "Fans can follow through official BCCI announcements, verified live-score services, and authorized broadcasters and streaming platforms.\n\nIndia vs West Indies will also generate plenty of discussion around cricket odds and sports markets. It is important to understand what odds actually represent: odds are market prices, not guarantees. A team can be heavily favored before a match and still lose due to an injury, batting collapse, exceptional bowling spell or weather interruption.\n\nAnyone researching betting-related information should understand applicable laws in their location and the financial risks involved. Bet Vault's role is to provide factual context rather than promise outcomes.",
+      },
+      {
+        heading: 'Frequently Asked Questions',
+        body: "Q: When does India vs West Indies 2026 begin?\nA: The tour begins on September 27, 2026, with the first ODI in Trivandrum.\n\nQ: How many matches will India and West Indies play?\nA: The teams are scheduled to play eight matches: three ODIs and five T20Is.\n\nQ: When is the first T20I?\nA: The first T20I is scheduled for October 6, 2026, in Lucknow, starting at 7:00 PM.\n\nQ: Where will the final T20I be played?\nA: The fifth T20I is scheduled for October 17, 2026 in Bengaluru.\n\nQ: Who is India's ODI captain?\nA: Shubman Gill has been named captain of India's ODI squad.\n\nQ: Who is India's T20I captain?\nA: Shreyas Iyer will captain India's T20I side.\n\nQ: Are Virat Kohli and Rohit Sharma included?\nA: Yes, both Rohit Sharma and Virat Kohli are included in India's ODI squad.\n\nQ: Which cities will host the T20Is?\nA: Lucknow, Ranchi, Indore, Hyderabad, and Bengaluru.\n\nQ: Do cricket odds guarantee a match result?\nA: No. Odds represent a market price and do not guarantee what will happen on the field.",
+      },
+      {
+        heading: 'Final Thoughts',
+        body: "The India vs West Indies 2026 tour has plenty for cricket followers to look forward to. From Trivandrum on September 27 to Bengaluru on October 17, eight matches across eight distinct cities will test squads across both 50-over and 20-over cricket.\n\nRather than looking only at predictions or pre-match hype, following actual team selections, pitch conditions, player performances and match situations will make this series truly compelling to follow.",
+      },
+    ],
+  },
 ];
 
 export function getBlogPost(slug: string) {

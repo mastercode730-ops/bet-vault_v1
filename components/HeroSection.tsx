@@ -36,7 +36,7 @@ export default function HeroSection() {
         <div className="relative z-10 max-w-5xl mx-auto px-4 flex flex-col items-center text-center py-12">
           
           <h1 className="text-white font-black uppercase mb-8 leading-tight drop-shadow-2xl" style={{ fontFamily: 'Montserrat, sans-serif', fontSize: 'clamp(1.8rem, 4.5vw, 4rem)' }}>
-            Get Your <span className="gold-text">Instant Cricket Betting ID</span>
+            Get Your <span className="gold-text">Instant Cricket ID</span>
             <br />
             <span className="text-white">— Start Winning Today</span>
           </h1>
