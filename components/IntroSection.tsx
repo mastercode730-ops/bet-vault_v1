@@ -23,7 +23,7 @@ export default function IntroSection() {
           }}
         >
           Play Smarter with{' '}
-          <span className="gold-text">Secure Sports Betting, Live Casino & Instant Betting IDs</span>
+          <span className="gold-text">Secure Sports Gaming, Live Casino & Instant IDs</span>
         </h2>
 
         <p className="text-gray-400 text-sm sm:text-base leading-relaxed mb-4 max-w-2xl">
@@ -33,8 +33,8 @@ export default function IntroSection() {
         </p>
         <p className="text-gray-400 text-sm sm:text-base leading-relaxed mb-8 max-w-2xl">
           Whether it&apos;s IPL, international series, or T20 leagues, a{' '}
-          <strong className="text-yellow-400">cricket betting ID</strong>{' '}
-          gives you instant access to real-time odds, live markets, and all the action from the comfort
+          <strong className="text-yellow-400">cricket gaming ID</strong>{' '}
+          gives you instant access to real-time action, live match updates, and all the excitement from the comfort
           of your couch. Fast sign-up, secure access, and a team that&apos;s always there when you need them.
         </p>
 
@@ -46,7 +46,7 @@ export default function IntroSection() {
           className="inline-flex items-center gap-2 gold-btn px-7 py-3.5 rounded-full text-sm sm:text-base font-black uppercase tracking-wider"
         >
           <WhatsAppIcon />
-          Get Your Betting ID Instantly
+          Get Your ID Instantly
         </a>
       </div>
     </section>

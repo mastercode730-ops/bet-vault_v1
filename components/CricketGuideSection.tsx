@@ -37,7 +37,7 @@ export default function CricketGuideSection() {
             <span className="gold-text">Match Information</span>
           </h2>
           <p className="text-gray-400 text-sm sm:text-base max-w-3xl leading-relaxed">
-            Welcome to Bet Vault, an online resource covering cricket, sports, match information, betting terminology, odds, and the wider world of online sports platforms.
+            Welcome to Bet Vault, an online resource covering cricket, sports, match information, market terminology, odds, and the wider world of online sports platforms.
           </p>
         </div>
 
@@ -49,7 +49,7 @@ export default function CricketGuideSection() {
                 Cricket is followed passionately across India and around the world. From international Test matches and ODIs to fast-paced T20 competitions, every season brings new teams, players, tournaments, and matchups to follow.
               </p>
               <p>
-                At Bet Vault, the focus is on making sports-related information easier to understand. Whether you are researching cricket schedules, learning how betting odds work, looking at different sports markets, or trying to understand terms such as live betting and Cricket ID, the aim is to provide straightforward information without making unrealistic promises.
+                At Bet Vault, the focus is on making sports-related information easier to understand. Whether you are researching cricket schedules, learning how sports odds work, looking at different sports markets, or trying to understand terms such as live matches and Cricket ID, the aim is to provide straightforward information without making unrealistic promises.
               </p>
             </div>
             <div className="lg:col-span-4 bg-yellow-600/10 border border-yellow-600/30 rounded-xl p-5 text-xs sm:text-sm text-yellow-200/90 leading-relaxed">
@@ -72,21 +72,21 @@ export default function CricketGuideSection() {
                 What Is Bet Vault?
               </h3>
               <p className="text-gray-400 text-sm sm:text-base leading-relaxed mb-5">
-                Bet Vault is an informational platform focused on cricket, sports, and online betting-related topics. The goal is simple: explain these topics in normal language instead of filling pages with complicated terminology.
+                Bet Vault is an informational platform focused on cricket, sports, and online gaming topics. The goal is simple: explain these topics in normal language instead of filling pages with complicated terminology.
               </p>
               <div className="grid grid-cols-2 gap-2 text-xs sm:text-sm">
                 {[
                   'Cricket match schedules',
                   'International cricket',
                   'T20, ODI & Test cricket',
-                  'Sports betting terminology',
-                  'Betting odds calculation',
+                  'Sports market terminology',
+                  'Sports odds calculation',
                   'Live & in-play markets',
                   'Cricket IDs overview',
                   'Sports platforms review',
                   'Match previews & context',
                   'Player & team insights',
-                  'Responsible gambling tips',
+                  'Responsible play tips',
                   'Account security advice',
                 ].map((item, i) => (
                   <div key={i} className="flex items-center gap-2 text-gray-300">
@@ -276,7 +276,7 @@ export default function CricketGuideSection() {
             <ul className="space-y-3 text-xs sm:text-sm">
               <li className="flex gap-2">
                 <strong className="text-yellow-400 whitespace-nowrap">Clear Terms:</strong>
-                <span className="text-gray-400">Rules associated with balances, bets, and accounts must be lucid.</span>
+                <span className="text-gray-400">Rules associated with balances, gameplay, and accounts must be lucid.</span>
               </li>
               <li className="flex gap-2">
                 <strong className="text-yellow-400 whitespace-nowrap">Customer Support:</strong>
@@ -292,7 +292,7 @@ export default function CricketGuideSection() {
               </li>
               <li className="flex gap-2">
                 <strong className="text-yellow-400 whitespace-nowrap">Jurisdictional Legality:</strong>
-                <span className="text-gray-400">Sports betting regulations vary widely by country and state.</span>
+                <span className="text-gray-400">Online gaming regulations vary widely by country and state.</span>
               </li>
             </ul>
           </div>
@@ -322,7 +322,7 @@ export default function CricketGuideSection() {
           </div>
         </div>
 
-        {/* Responsible Gambling Core Principles */}
+        {/* Responsible Gaming Core Principles */}
         <div className="card-glow rounded-2xl p-6 sm:p-8 mb-14 border border-yellow-600/30">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mb-6">
             <div>
@@ -330,7 +330,7 @@ export default function CricketGuideSection() {
                 Player Safety First
               </span>
               <h3 className="text-white font-black text-xl sm:text-2xl" style={{ fontFamily: 'Montserrat, sans-serif' }}>
-                Responsible Gambling Principles
+                Responsible Gaming Principles
               </h3>
             </div>
             <div className="text-xs bg-yellow-600/20 text-yellow-300 border border-yellow-600/40 px-3 py-1.5 rounded-full font-bold">
@@ -339,17 +339,17 @@ export default function CricketGuideSection() {
           </div>
 
           <p className="text-gray-300 text-sm leading-relaxed mb-6">
-            Sports betting involves financial risk. There is no betting strategy that can guarantee a profit, and past results never determine future sporting outcomes. If betting is legal in your jurisdiction and you choose to participate, adopt these essential safeguards:
+            Online sports gaming involves financial risk. There is no strategy that can guarantee a profit, and past results never determine future sporting outcomes. If online gaming is legal in your jurisdiction and you choose to participate, adopt these essential safeguards:
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
             <div className="bg-black/60 p-4 rounded-xl border border-yellow-600/10">
               <div className="text-yellow-400 font-bold text-sm mb-1">💰 Set Spending Limits</div>
-              <p className="text-gray-400 text-xs">Only wager money you can afford to lose without impacting essential commitments.</p>
+              <p className="text-gray-400 text-xs">Only play with money you can afford to lose without impacting essential commitments.</p>
             </div>
             <div className="bg-black/60 p-4 rounded-xl border border-yellow-600/10">
               <div className="text-yellow-400 font-bold text-sm mb-1">🛑 Never Chase Losses</div>
-              <p className="text-gray-400 text-xs">Attempting to recover previous losses by increasing bet stakes leads to compounding losses.</p>
+              <p className="text-gray-400 text-xs">Attempting to recover previous losses by increasing stakes leads to compounding losses.</p>
             </div>
             <div className="bg-black/60 p-4 rounded-xl border border-yellow-600/10">
               <div className="text-yellow-400 font-bold text-sm mb-1">🧘 Take Regular Breaks</div>
@@ -362,7 +362,7 @@ export default function CricketGuideSection() {
           </div>
 
           <div className="text-xs text-gray-400 text-center bg-yellow-600/5 p-3 rounded-lg border border-yellow-600/10">
-            If sports betting stops feeling recreational and begins to affect finances, personal relationships, or daily life, seek assistance from recognized confidential counseling services.
+            If sports gaming stops feeling recreational and begins to affect finances, personal relationships, or daily life, seek assistance from recognized confidential counseling services.
           </div>
         </div>
 
@@ -418,19 +418,19 @@ export default function CricketGuideSection() {
             {[
               {
                 q: 'What is Bet Vault?',
-                a: 'Bet Vault is an online information resource covering cricket, sports, betting terminology, odds, match information, and online sports platforms.',
+                a: 'Bet Vault is an online information resource covering cricket, sports, market terminology, odds, match information, and online sports platforms.',
               },
               {
-                q: 'Does Bet Vault guarantee betting winnings?',
+                q: 'Does Bet Vault guarantee winnings?',
                 a: 'No. Bet Vault does not guarantee winnings, profits, or specific sporting outcomes under any circumstances.',
               },
               {
-                q: 'What are betting odds?',
-                a: 'Betting odds represent the market price associated with a particular outcome. Odds fluctuate dynamically depending on market activity and in-game developments.',
+                q: 'What are sports odds?',
+                a: 'Sports odds represent the market price associated with a particular outcome. Odds fluctuate dynamically depending on market activity and in-game developments.',
               },
               {
-                q: 'What is live betting?',
-                a: 'Live betting (in-play betting) refers to markets that are available and update continuously while a sporting event is actively taking place.',
+                q: 'What are live markets?',
+                a: 'Live markets (in-play markets) refer to options that are available and update continuously while a sporting event is actively taking place.',
               },
               {
                 q: 'Why do cricket odds change during a game?',
@@ -449,15 +449,15 @@ export default function CricketGuideSection() {
                 a: 'Review clear terms and conditions, accessible human customer support, privacy rules, payout speed, account security, and local legal jurisdiction.',
               },
               {
-                q: 'Is online betting legal?',
-                a: 'Legality depends on your country, state, and specific activity. Gambling legislation varies widely, and users must confirm laws applicable to their location.',
+                q: 'Is online gaming legal?',
+                a: 'Legality depends on your country, state, and specific activity. Legislation varies widely, and users must confirm laws applicable to their location.',
               },
               {
-                q: 'Can sports betting guarantee steady income?',
-                a: 'No. Sports betting involves substantial financial risk and should never be considered or treated as a dependable source of income.',
+                q: 'Can sports gaming guarantee steady income?',
+                a: 'No. Sports gaming involves substantial financial risk and should never be considered or treated as a dependable source of income.',
               },
               {
-                q: 'What sports are commonly covered by betting platforms?',
+                q: 'What sports are commonly covered by sports platforms?',
                 a: 'Depending on the service provider, platforms may feature cricket, football, basketball, tennis, table tennis, hockey, and casino table games.',
               },
               {
@@ -484,16 +484,16 @@ export default function CricketGuideSection() {
           </div>
           <div className="text-gray-400 text-xs sm:text-sm space-y-3 leading-relaxed">
             <p>
-              Bet Vault is an informational website. Content published on this website is provided for general informational and educational purposes only. It does not constitute financial, legal, or professional gambling advice.
+              Bet Vault is an informational website. Content published on this website is provided for general informational and educational purposes only. It does not constitute financial, legal, or professional advice.
             </p>
             <p>
-              Sports betting involves financial risk. There is no guarantee of winning, profit, or a particular sporting outcome. Bet Vault does not guarantee the reliability, availability, security, or performance of any third-party bookmaker, exchange, Cricket ID provider, or sports platform.
+              Sports platforms involve financial risk. There is no guarantee of winning, profit, or a particular sporting outcome. Bet Vault does not guarantee the reliability, availability, security, or performance of any third-party exchange, Cricket ID provider, or sports platform.
             </p>
             <p>
-              Laws relating to gambling and betting vary by country, state, and jurisdiction. Users are solely responsible for understanding and complying with the laws applicable to them. Users must participate only where permitted by law and where they meet the legal age requirement (18+).
+              Laws relating to online gaming and sports platforms vary by country, state, and jurisdiction. Users are solely responsible for understanding and complying with the laws applicable to them. Users must participate only where permitted by law and where they meet the legal age requirement (18+).
             </p>
             <p className="text-gray-300 font-medium">
-              Do not gamble with money you cannot afford to lose, and do not chase losses. Bet Vault does not promote illegal gambling and does not claim that betting is a guaranteed way to make money.
+              Do not play with money you cannot afford to lose, and do not chase losses. Bet Vault does not promote illegal activities and does not claim that gaming is a guaranteed way to make money.
             </p>
           </div>
         </div>

@@ -21,8 +21,8 @@ export default function AboutSection() {
               className="font-black text-white mb-5 w-full"
               style={{ fontFamily: 'Montserrat, sans-serif', fontSize: 'clamp(1.4rem, 4vw, 2.4rem)', lineHeight: 1.2 }}
             >
-              Built by Bettors,{' '}
-              <span className="gold-text">for Bettors</span>
+              Built by Sports Lovers,{' '}
+              <span className="gold-text">for Players</span>
             </h2>
             <p className="text-gray-400 leading-relaxed mb-4 text-sm sm:text-base max-w-lg">
               We started Bet Vault because we were frustrated with the same things you probably are —
@@ -30,11 +30,11 @@ export default function AboutSection() {
               So we built something better.
             </p>
             <p className="text-gray-400 leading-relaxed mb-4 text-sm sm:text-base max-w-lg">
-              Bet Vault is not just another betting ID provider. We are a team of cricket lovers and
+              Bet Vault is not just another online platform. We are a team of cricket lovers and
               tech enthusiasts who genuinely care about giving you the best possible experience.
             </p>
             <p className="text-gray-400 leading-relaxed mb-7 text-sm sm:text-base max-w-lg">
-              Today, over 3 million bettors across India trust us with their IDs, deposits, and
+              Today, over 3 million players across India trust us with their IDs, deposits, and
               winnings. That trust means everything to us, and we work every day to earn it.
             </p>
 

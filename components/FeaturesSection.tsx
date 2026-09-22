@@ -3,12 +3,12 @@ import Image from 'next/image';
 const WHATSAPP_URL = `https://wa.me/918764465110?text=${encodeURIComponent('Hi Bet Vault! Can I get more info on this?')}`;
 
 const features = [
-  { img: '/trusted_platform.png', title: '100% Trusted Platform', desc: 'Every transaction, every ID, and every account goes through strict security checks so you can bet without second thoughts.' },
-  { img: '/users_milestone.png', title: '3 Million+ Happy Users', desc: 'Over 3 million bettors across India have made Bet Vault their go-to platform — and that number keeps growing.' },
-  { img: '/instant_id.png', title: 'Instant ID Activation', desc: 'Once you reach out, your betting ID is set up and ready in minutes. Fast, smooth, and completely hassle-free.' },
+  { img: '/trusted_platform.png', title: '100% Trusted Platform', desc: 'Every transaction, every ID, and every account goes through strict security checks so you can play without second thoughts.' },
+  { img: '/users_milestone.png', title: '3 Million+ Happy Users', desc: 'Over 3 million players across India have made Bet Vault their go-to platform — and that number keeps growing.' },
+  { img: '/instant_id.png', title: 'Instant ID Activation', desc: 'Once you reach out, your ID is set up and ready in minutes. Fast, smooth, and completely hassle-free.' },
   { img: '/support_247.png', title: '24/7 Expert Support', desc: 'Whether it\'s 2 PM or 2 AM, our team is always online. Ping us on WhatsApp and we\'ll sort it out right away.' },
   { img: '/secure_payments.png', title: 'Safe & Fast Payments', desc: 'UPI, Net Banking, all major wallets — with bank-level encryption. Deposits land instantly and withdrawals go through without drama.' },
-  { img: '/bonus_offers.png', title: 'Big Welcome Bonuses', desc: 'New to Bet Vault? Get exclusive welcome bonuses that give your bankroll a solid head start from day one.' },
+  { img: '/bonus_offers.png', title: 'Big Welcome Bonuses', desc: 'New to Bet Vault? Get exclusive welcome bonuses that give your balance a solid head start from day one.' },
 ];
 
 const stats = [
@@ -52,7 +52,7 @@ export default function FeaturesSection() {
             <span className="gold-text">Nothing You Don&apos;t</span>
           </h2>
           <p style={{ color: '#9CA3AF', fontSize: '15px', maxWidth: '480px', margin: '0 auto', lineHeight: 1.6 }}>
-            We built Bet Vault around what bettors actually want — speed, security, and a team that genuinely cares.
+            We built Bet Vault around what players actually want — speed, security, and a team that genuinely cares.
           </p>
         </div>
 

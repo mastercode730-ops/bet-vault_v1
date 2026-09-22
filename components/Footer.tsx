@@ -26,11 +26,11 @@ export default function Footer() {
                 >
                   BET VAULT
                 </div>
-                <div className="text-gray-500 text-xs tracking-wider">YOUR BET. OUR VAULT. YOUR WIN.</div>
+                <div className="text-gray-500 text-xs tracking-wider">YOUR GAME. OUR VAULT. YOUR WIN.</div>
               </div>
             </div>
             <p className="text-gray-500 text-xs sm:text-sm leading-relaxed">
-              India&apos;s most trusted online cricket betting ID provider. Fast setup, secure payments, and a team that&apos;s always here — every single day.
+              India&apos;s most trusted online cricket ID provider. Fast setup, secure payments, and a team that&apos;s always here — every single day.
             </p>
           </div>
 
@@ -119,8 +119,8 @@ export default function Footer() {
           {/* Disclaimer */}
           <div className="bg-yellow-600/5 border border-yellow-600/20 rounded-xl p-3 sm:p-4 mb-5 sm:mb-6">
             <p className="text-gray-500 text-xs leading-relaxed text-center">
-              <strong className="text-yellow-600">Responsible Gambling Notice: </strong>
-              Betting is meant to be fun. Please gamble responsibly and only within your means. You must be 18+ to use this platform. Always check your local laws before participating.
+              <strong className="text-yellow-600">Responsible Gaming Notice: </strong>
+              Gaming is meant to be fun. Please play responsibly and only within your means. You must be 18+ to use this platform. Always check your local laws before participating.
             </p>
           </div>
 

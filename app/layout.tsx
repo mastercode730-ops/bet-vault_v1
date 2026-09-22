@@ -9,15 +9,15 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://bet-vault.com'),
-  title: "BetVault | Online Cricket Betting, Sports Betting & Casino",
-  description: "Join BetVault for secure online cricket betting, live sports betting, casino games, instant betting IDs, competitive odds, ",
-  keywords: "online cricket betting ID, cricket ID, betting ID India, sports betting, IPL betting ID",
+  title: "BetVault | Online Cricket Gaming, Sports & Casino",
+  description: "Join BetVault for secure online cricket gaming, live sports action, casino games, instant IDs, and competitive odds.",
+  keywords: "online cricket ID, cricket ID India, sports gaming, IPL cricket ID",
   verification: {
     google: "hKyXrV_KszpG4iVcHpyASn9c05tZR55mPelqb7VhCKM",
   },
   openGraph: {
-    title: "BetVault | Online Cricket Betting, Sports Betting & Casino",
-    description: "Join BetVault for secure online cricket betting, live sports betting, casino games, instant betting IDs, competitive odds, ",
+    title: "BetVault | Online Cricket Gaming, Sports & Casino",
+    description: "Join BetVault for secure online cricket gaming, live sports action, casino games, instant IDs, and competitive odds.",
     type: "website",
   },
 };
@@ -35,7 +35,7 @@ const schemaOrg = {
         "@type": "ImageObject",
         "url": "https://bet-vault.com/_next/image?url=%2Flogo.jpeg&w=128&q=75"
       },
-      "description": "BetVault provides secure online cricket betting IDs, sports betting access, live betting and casino betting services for users in India.",
+      "description": "BetVault provides secure online cricket IDs, sports access, live matches and casino services for users in India.",
       "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "Customer Support",
@@ -62,8 +62,8 @@ const schemaOrg = {
       "@type": "WebPage",
       "@id": "https://bet-vault.com/#webpage",
       "url": "https://bet-vault.com/",
-      "name": "BetVault | Online Cricket Betting, Sports Betting & Casino",
-      "description": "Join BetVault for secure online cricket betting, live sports betting, casino games, instant betting IDs, competitive odds, and fast withdrawals in India.",
+      "name": "BetVault | Online Cricket Gaming, Sports & Casino",
+      "description": "Join BetVault for secure online cricket gaming, live sports action, casino games, instant IDs, and fast withdrawals in India.",
       "isPartOf": { "@id": "https://bet-vault.com/#website" },
       "about": { "@id": "https://bet-vault.com/#organization" },
       "primaryImageOfPage": { "@id": "https://bet-vault.com/#primaryimage" },
@@ -92,17 +92,17 @@ const schemaOrg = {
     {
       "@type": "Service",
       "@id": "https://bet-vault.com/#service",
-      "name": "Online Cricket Betting & Sports Betting Services",
+      "name": "Online Cricket & Sports Services",
       "provider": { "@id": "https://bet-vault.com/#organization" },
       "serviceType": [
-        "Cricket Betting ID",
-        "Online Cricket Betting",
-        "Sports Betting",
-        "Live Betting",
+        "Cricket ID",
+        "Online Cricket Gaming",
+        "Sports Entertainment",
+        "Live Matches",
         "Online Casino",
         "Fast Withdrawals"
       ],
-      "description": "BetVault helps users get secure betting IDs for cricket betting, sports betting and casino betting with fast deposits and withdrawals.",
+      "description": "BetVault helps users get secure IDs for cricket, sports and casino with fast deposits and withdrawals.",
       "areaServed": { "@type": "Country", "name": "India" },
       "availableChannel": {
         "@type": "ServiceChannel",
@@ -113,7 +113,7 @@ const schemaOrg = {
     {
       "@type": "SiteNavigationElement",
       "@id": "https://bet-vault.com/#navigation",
-      "name": ["Home", "Blog", "Cricket Betting", "Sports Betting", "Casino Betting"],
+      "name": ["Home", "Blog", "Cricket", "Sports", "Casino"],
       "url": [
         "https://bet-vault.com/",
         "https://bet-vault.com/blog/",
@@ -125,7 +125,7 @@ const schemaOrg = {
     {
       "@type": "RegisterAction",
       "@id": "https://bet-vault.com/#register",
-      "name": "Register for a BetVault Betting ID",
+      "name": "Register for a BetVault ID",
       "target": {
         "@type": "EntryPoint",
         "urlTemplate": "https://wa.me/918764465110?text=Hi%20Bet%20Vault!%20Can%20I%20get%20more%20info%20on%20this%3F",
@@ -135,7 +135,7 @@ const schemaOrg = {
         ]
       },
       "agent": { "@id": "https://bet-vault.com/#organization" },
-      "result": { "@type": "Thing", "name": "BetVault Betting ID" }
+      "result": { "@type": "Thing", "name": "BetVault ID" }
     }
   ]
 };
@@ -147,26 +147,26 @@ const schemaFAQ = {
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is it legal for Indian users to get an online cricket betting ID?",
+      "name": "Is it legal for Indian users to get an online cricket ID?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Betting laws in India vary by state and can differ depending on local regulations. Many betting platforms operate under international licences, and millions of Indian users participate in online cricket betting. Users should always check the laws applicable in their state and bet responsibly."
+        "text": "Gaming laws in India vary by state and can differ depending on local regulations. Many platforms operate under international licences, and millions of Indian users participate in online sports and cricket entertainment. Users should always check the laws applicable in their state and play responsibly."
       }
     },
     {
       "@type": "Question",
-      "name": "How quickly will I receive my betting ID after signing up?",
+      "name": "How quickly will I receive my ID after signing up?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most betting IDs are created within minutes. Simply contact BetVault on WhatsApp, share the required details, and the support team will activate your account as quickly as possible."
+        "text": "Most IDs are created within minutes. Simply contact BetVault on WhatsApp, share the required details, and the support team will activate your account as quickly as possible."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I use my BetVault ID across multiple betting platforms?",
+      "name": "Can I use my BetVault ID across multiple gaming platforms?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Depending on the account setup, a BetVault ID may provide access to multiple partner betting platforms, allowing users to explore more sports markets, betting options, and competitive odds."
+        "text": "Depending on the account setup, a BetVault ID may provide access to multiple partner gaming platforms, allowing users to explore more sports markets, options, and competitive odds."
       }
     },
     {
@@ -174,15 +174,15 @@ const schemaFAQ = {
       "name": "Are my deposits and withdrawals safe with BetVault?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. BetVault works with secure betting platforms that use encrypted payment systems and trusted banking methods. Deposits are processed quickly, while withdrawals are handled without unnecessary delays."
+        "text": "Yes. BetVault works with secure platforms that use encrypted payment systems and trusted banking methods. Deposits are processed quickly, while withdrawals are handled without unnecessary delays."
       }
     },
     {
       "@type": "Question",
-      "name": "Which cricket tournaments can I bet on?",
+      "name": "Which cricket tournaments can I follow and play?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Users can place bets on major cricket tournaments including the IPL, ICC T20 World Cup, ODI series, Test matches, The Ashes, county cricket, domestic leagues, and many other international competitions."
+        "text": "Users can participate across major cricket tournaments including the IPL, ICC T20 World Cup, ODI series, Test matches, The Ashes, county cricket, domestic leagues, and many other international competitions."
       }
     },
     {
@@ -190,7 +190,7 @@ const schemaFAQ = {
       "name": "What exactly is BetVault and what does it do?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "BetVault helps users obtain secure online cricket betting IDs. The platform assists with account creation, betting ID activation, and access to cricket betting, sports betting, and online casino platforms."
+        "text": "BetVault helps users obtain secure online cricket gaming IDs. The platform assists with account creation, ID activation, and access to cricket, sports, and online casino platforms."
       }
     },
     {
@@ -198,7 +198,7 @@ const schemaFAQ = {
       "name": "How do I create my BetVault account?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Creating a BetVault account is simple. Contact the support team through WhatsApp, provide your basic details, and your betting ID and login credentials will be shared after the account is activated."
+        "text": "Creating a BetVault account is simple. Contact the support team through WhatsApp, provide your basic details, and your ID and login credentials will be shared after the account is activated."
       }
     },
     {
@@ -206,7 +206,7 @@ const schemaFAQ = {
       "name": "Why do I need a BetVault ID?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A BetVault ID provides secure access to betting platforms where users can place bets, manage their account, view betting history, claim promotions, and withdraw winnings."
+        "text": "A BetVault ID provides secure access to platforms where users can participate, manage their account, view transaction history, claim promotions, and withdraw winnings."
       }
     },
     {
@@ -214,7 +214,7 @@ const schemaFAQ = {
       "name": "How do I add money to my account?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "After logging into your betting account, choose the deposit option, select your preferred payment method such as UPI, Net Banking or supported wallets, enter the amount, and complete the transaction. Funds are generally credited instantly."
+        "text": "After logging into your account, choose the deposit option, select your preferred payment method such as UPI, Net Banking or supported wallets, enter the amount, and complete the transaction. Funds are generally credited instantly."
       }
     },
     {
@@ -246,7 +246,7 @@ const schemaFAQ = {
       "name": "How do I reach the BetVault support team?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "BetVault provides customer support through WhatsApp 24 hours a day, 7 days a week. Users can contact the support team for account assistance, betting ID activation, deposits, withdrawals, and general enquiries."
+        "text": "BetVault provides customer support through WhatsApp 24 hours a day, 7 days a week. Users can contact the support team for account assistance, ID activation, deposits, withdrawals, and general enquiries."
       }
     },
     {
@@ -254,7 +254,7 @@ const schemaFAQ = {
       "name": "Are there any rules I should know before I start?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Users must be at least 18 years old to register. Only one account per person is permitted. All bets placed are considered final, and users should always gamble responsibly and only wager what they can afford to lose."
+        "text": "Users must be at least 18 years old to register. Only one account per person is permitted. All actions taken are considered final, and users should always play responsibly and within their means."
       }
     }
   ]

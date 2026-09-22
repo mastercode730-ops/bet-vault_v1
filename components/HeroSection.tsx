@@ -10,7 +10,7 @@ export default function HeroSection() {
         <div className="ticker-content text-black font-bold text-xs sm:text-sm">
           {Array.from({ length: 8 }).map((_, i) => (
             <span key={i} className="mx-6 sm:mx-8">
-              🏏 Cricket &bull; ⚽ Football &bull; 🎰 Casino &bull; 🏀 Basketball &bull; 🎯 IPL Betting &bull; 🔐 Secure Payments &bull; ⚡ Instant ID &bull; 💎 Bonuses &nbsp;
+              🏏 Cricket &bull; ⚽ Football &bull; 🎰 Casino &bull; 🏀 Basketball &bull; 🎯 IPL Gaming &bull; 🔐 Secure Payments &bull; ⚡ Instant ID &bull; 💎 Bonuses &nbsp;
             </span>
           ))}
         </div>
@@ -21,7 +21,7 @@ export default function HeroSection() {
         <div className="absolute inset-0 z-0">
           <Image
             src="/hero_banner.png"
-            alt="Get Your Cricket Betting ID"
+            alt="Get Your Cricket ID"
             fill
             className="object-cover object-center"
             priority
@@ -60,7 +60,7 @@ export default function HeroSection() {
               rel="noopener noreferrer"
               className="gold-btn text-black font-black py-4 px-8 rounded-xl uppercase tracking-wider text-center flex items-center justify-center"
             >
-              Get Betting ID
+              Get Cricket ID
             </a>
             <a
               href={WHATSAPP_URL}

@@ -22,7 +22,7 @@ export default function BlogSection() {
             <span className="gold-text">Insights</span>
           </h2>
           <p className="text-gray-400 text-sm sm:text-base max-w-xl">
-            Stay sharp with strategies, platform updates, and betting guides from the Bet Vault team.
+            Stay sharp with strategies, platform updates, and sports guides from the Bet Vault team.
           </p>
         </div>
 

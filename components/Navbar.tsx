@@ -58,7 +58,7 @@ export default function Navbar() {
                 <div className="text-base font-black gold-text leading-tight" style={{ fontFamily: 'Montserrat, sans-serif' }}>
                   BET VAULT
                 </div>
-                <div className="text-gray-500 text-[9px] tracking-widest">YOUR BET. OUR VAULT.</div>
+                <div className="text-gray-500 text-[9px] tracking-widest">YOUR GAME. OUR VAULT.</div>
               </div>
             </button>
 

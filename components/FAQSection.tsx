@@ -6,28 +6,28 @@ const WHATSAPP_URL = `https://wa.me/918764465110?text=${encodeURIComponent('Hi B
 
 const faqs = [
   {
-    q: 'Is it legal for Indian users to get an online cricket betting ID?',
-    a: 'Betting laws in India vary by state and can get a bit confusing. Many platforms operate under international licences, and millions of Indian users actively bet on cricket every day. We always recommend checking the specific rules in your state and betting responsibly.',
+    q: 'Is it legal for Indian users to get an online cricket ID?',
+    a: 'Gaming laws in India vary by state and can get a bit confusing. Many platforms operate under international licences, and millions of Indian users actively follow cricket games every day. We always recommend checking the specific rules in your state and playing responsibly.',
   },
   {
-    q: 'How quickly will I receive my betting ID after signing up?',
+    q: 'How quickly will I receive my ID after signing up?',
     a: 'Usually within minutes. Once you message us on WhatsApp and share your details, our team gets your account set up right away. The whole process is built for speed.',
   },
   {
-    q: 'Can I use my Bet Vault ID across multiple betting platforms?',
-    a: 'Yes! Depending on your setup, your ID can give you access to multiple partner platforms — more markets, more odds, and more betting opportunities from a single point of contact.',
+    q: 'Can I use my Bet Vault ID across multiple gaming platforms?',
+    a: 'Yes! Depending on your setup, your ID can give you access to multiple partner platforms — more markets, better odds, and more entertainment opportunities from a single point of contact.',
   },
   {
     q: 'Are my deposits and withdrawals safe with Bet Vault?',
     a: 'Absolutely. We partner only with platforms that use bank-level encryption and trusted payment gateways. Deposits are instant and withdrawals are processed quickly without unnecessary delays.',
   },
   {
-    q: 'Which cricket tournaments can I bet on?',
-    a: 'Pretty much everything — IPL, T20 World Cup, ODI series, Test matches, county cricket, The Ashes, and more. If there is a match happening somewhere in the world, chances are you can bet on it.',
+    q: 'Which cricket tournaments can I follow and play?',
+    a: 'Pretty much everything — IPL, T20 World Cup, ODI series, Test matches, county cricket, The Ashes, and more. If there is a match happening somewhere in the world, chances are you can get involved.',
   },
   {
     q: 'What exactly is Bet Vault and what does it do?',
-    a: 'Bet Vault is India\'s go-to platform for getting a cricket betting ID quickly and safely. We handle the entire setup — from creating your account to activating your ID — so you can jump straight into betting without any headaches.',
+    a: 'Bet Vault is India\'s go-to platform for getting a cricket gaming ID quickly and safely. We handle the entire setup — from creating your account to activating your ID — so you can jump straight into the action without any headaches.',
   },
   {
     q: 'How do I create my Bet Vault account?',
@@ -35,11 +35,11 @@ const faqs = [
   },
   {
     q: 'Why do I need a Bet Vault ID?',
-    a: 'Your ID is your key to the platform. It lets you log in, place bets, track winnings, claim bonuses, and manage everything securely from one place.',
+    a: 'Your ID is your key to the platform. It lets you log in, participate, track winnings, claim bonuses, and manage everything securely from one place.',
   },
   {
     q: 'How do I add money to my account?',
-    a: 'Log in, head to the deposit section, pick your payment method (UPI, Net Banking, or wallet), enter the amount, and confirm. Money shows up almost instantly so you can start betting without delay.',
+    a: 'Log in, head to the deposit section, pick your payment method (UPI, Net Banking, or wallet), enter the amount, and confirm. Money shows up almost instantly so you can get started without delay.',
   },
   {
     q: 'How do withdrawals work?',
@@ -55,11 +55,11 @@ const faqs = [
   },
   {
     q: 'How do I reach the Bet Vault support team?',
-    a: 'We are on WhatsApp 24/7. Whether you have a question, a problem, or need guidance, drop us a message and someone from our team will respond quickly. Real people helping real bettors.',
+    a: 'We are on WhatsApp 24/7. Whether you have a question, a problem, or need guidance, drop us a message and someone from our team will respond quickly. Real people helping real users.',
   },
   {
     q: 'Are there any rules I should know before I start?',
-    a: 'Yes — you must be at least 18 years old to register. Only one account per person is allowed. All bets placed are final. Bet only what you can afford to lose and keep it fun.',
+    a: 'Yes — you must be at least 18 years old to register. Only one account per person is allowed. Play responsibly and within your means, and keep it fun.',
   },
 ];
 

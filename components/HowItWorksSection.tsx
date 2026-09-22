@@ -3,8 +3,8 @@ const WHATSAPP_URL = `https://wa.me/918764465110?text=${encodeURIComponent('Hi B
 const steps = [
   { step: '01', title: 'Reach Out on WhatsApp', desc: 'Tap the WhatsApp button and send us a quick message. Our team responds almost immediately — no long forms, no complicated pages.' },
   { step: '02', title: 'Share Your Details', desc: 'Give us your basic info — name, preferred platform, and deposit amount. We keep everything confidential.' },
-  { step: '03', title: 'Get Your ID Activated', desc: 'We create and verify your betting ID within minutes. Your login credentials come directly on WhatsApp — ready to use.' },
-  { step: '04', title: 'Deposit & Start Betting', desc: 'Add funds through UPI, claim your welcome bonus, and you are all set. The first bet is always the most exciting!' },
+  { step: '03', title: 'Get Your ID Activated', desc: 'We create and verify your gaming ID within minutes. Your login credentials come directly on WhatsApp — ready to use.' },
+  { step: '04', title: 'Deposit & Start Playing', desc: 'Add funds through UPI, claim your welcome bonus, and you are all set. Getting started is always the most exciting part!' },
 ];
 
 export default function HowItWorksSection() {
@@ -38,7 +38,7 @@ export default function HowItWorksSection() {
             marginBottom: '12px',
           }}>
             How to Get Your{' '}
-            <span className="gold-text">Betting ID</span>
+            <span className="gold-text">Gaming ID</span>
           </h2>
           <p style={{ color: '#9CA3AF', fontSize: '15px', maxWidth: '480px', margin: '0 auto', lineHeight: 1.6 }}>
             Four simple steps. Less than five minutes. Your ID is ready to use.

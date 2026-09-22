@@ -27,7 +27,7 @@ export default function SportsSection() {
             className="font-black text-white mb-3 w-full"
             style={{ fontFamily: 'Montserrat, sans-serif', fontSize: 'clamp(1.4rem, 4vw, 2.4rem)', lineHeight: 1.2 }}
           >
-            Bet on Whatever{' '}
+            Play Whatever{' '}
             <span className="gold-text">Excites You</span>
           </h2>
           <p className="text-gray-400 text-sm sm:text-base max-w-xl">
@@ -71,11 +71,11 @@ export default function SportsSection() {
               className="font-black text-white w-full"
               style={{ fontFamily: 'Montserrat, sans-serif', fontSize: 'clamp(1.2rem, 3.5vw, 2rem)', lineHeight: 1.2 }}
             >
-              Ready to Place Your First Bet?
+              Ready to Join the Action?
             </h3>
             <p className="text-gray-300 text-sm sm:text-base max-w-lg">
               Join over 3 million Indians who have already found their trusted home for online
-              betting. Getting started is easier than you think.
+              sports entertainment. Getting started is easier than you think.
             </p>
             <a
               href={WHATSAPP_URL}
@@ -85,7 +85,7 @@ export default function SportsSection() {
               className="inline-flex items-center gap-2 gold-btn px-7 py-3.5 rounded-full text-sm sm:text-base font-black uppercase tracking-wider"
             >
               <WhatsAppIcon />
-              Claim Your Betting ID Now
+              Claim Your ID Now
             </a>
           </div>
         </div>
