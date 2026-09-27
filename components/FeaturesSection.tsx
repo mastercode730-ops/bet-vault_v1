@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-const WHATSAPP_URL = `https://wa.me/918764465110?text=${encodeURIComponent('Hi Bet Vault! Can I get more info on this?')}`;
+const WHATSAPP_URL = `https://wa.me/918360750829?text=${encodeURIComponent('Hi Bet Vault! Can I get more info on this?')}`;
 
 const features = [
   { img: '/trusted_platform.png', title: '100% Trusted Platform', desc: 'Every transaction, every ID, and every account goes through strict security checks so you can play without second thoughts.' },

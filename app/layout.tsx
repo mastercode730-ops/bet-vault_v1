@@ -42,7 +42,7 @@ const schemaOrg = {
         "telephone": "+91-8764465110",
         "areaServed": "IN",
         "availableLanguage": ["English", "Hindi"],
-        "url": "https://wa.me/918764465110?text=Hi%20Bet%20Vault!%20Can%20I%20get%20more%20info%20on%20this%3F"
+        "url": "https://wa.me/918360750829?text=Hi%20Bet%20Vault!%20Can%20I%20get%20more%20info%20on%20this%3F"
       }
     },
     {
@@ -128,7 +128,7 @@ const schemaOrg = {
       "name": "Register for a BetVault ID",
       "target": {
         "@type": "EntryPoint",
-        "urlTemplate": "https://wa.me/918764465110?text=Hi%20Bet%20Vault!%20Can%20I%20get%20more%20info%20on%20this%3F",
+        "urlTemplate": "https://wa.me/918360750829?text=Hi%20Bet%20Vault!%20Can%20I%20get%20more%20info%20on%20this%3F",
         "actionPlatform": [
           "https://schema.org/DesktopWebPlatform",
           "https://schema.org/MobileWebPlatform"
